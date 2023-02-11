@@ -339,6 +339,11 @@ button[type="submit"] {
 .form-control {
     margin: 15px;
 }
+.loader {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
 @media(min-width: 992px) {
     .center-form {
         padding-top: 30px;
